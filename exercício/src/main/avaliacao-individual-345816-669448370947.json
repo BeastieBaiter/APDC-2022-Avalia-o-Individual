@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "avaliacao-individual-345816",
+  "private_key_id": "669448370947c462601efbdb2f609126fd719d68",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCWFx9ydqpMv5ch\nq9KlPh0pAIok1KrXxmTmT1sMH2tBwQw9vz0FPsUurQ6ASCXKopHjacLkf6KQGUM4\ngZlv0wVDluogBn61sykvMMFmWSIb8YCx/416J6oJhF6yUZQik9FwrFF3cTI6kJFC\niRsnPDD0IE3p7xuXtAfPNGQyeeq2dHUJWnSa0eVp+nt4JDv7XjrnaRM6PhKosXvl\nGLQqMhLKu7epDFH5BsIzXRKCQ2q16WsYsjCNAfdooxRjsqpf8NWos+1ChgBKsdzh\ngorzRHpV8ouxtNWsGYcIMku0LcKcf5z8ASmO6f1vAyHxNvE/nJX082JA9eCdga7a\n8ZKw+6nNAgMBAAECggEACNjOErop6aI1b1eob/MMVvlgKzGZ7GQWWHj+/eTwNo0B\ngrY+C4wapViwDSGzkJEqlkQKp9taIrJKgw8oky3WFpjTrhWT7HPmDpEKJVVFrG38\nzwEoPrYN0MfLqSkj2THrW3/cwXSbqFYTKd/ZCOQEYq9wyEQ+1R9Ygn8tFMiY7C40\nBb0MDLxjfecJzZpzU9bkI3tJVh8LZHObbBP90qwBe4E3VqM1Axdf4stx70dD8TE+\neD8I4z5pSNE2lK2JQOB6fDcGheBRChFik++AbEIJl1spdQXtQ2VRZhjEqa/fQIG8\n+hlgG0M+sTavji1lR1FKGQIIMCtvs8LyqpMWJFV5xQKBgQDJoHhLcnWesZpjHnhP\nwdSomQTkS91Vgpzts33tdQYy3giKlF37ih6Q2sZYeCK/vA/2esQQ1cDxkdh5l1h7\nevmGKrmFr2hDq1ouSaphAmCIOnuS8bbADfMPRjNxoGXpNFH8mu4gTwDXet20ttVY\n7/e/nyGDEbkthYa819ow7Ty6wwKBgQC+kMXxo1P6OcPZv8bEPrEi0NkpVmVo9Avy\n4NxS0wEN4ckONXLIy4bHGry3mxzPQu7AIcYFlkxR5su0c6z1aUIa5O1u3vB67HPN\nyPHrRAdHCfxikgrKDIRiuQm8bK3gJC+mFtQy5BqWpexATmXfThUBIDLxqRDWZv85\ne4UTvL8gLwKBgFenToSmNuINneuXVIB/6H5/P3QsUwWYqbZgwM8Zf99fTWFJjO4M\npqscoPvXBmxKSrpBtrkG5EFgwTZjCFFuLcoZCtxGXFKGzMawucRAr0yp+AzyzhsC\nNXefcj/klkliuH3TsNAU6G3E+VtV3Lw0XoVMndoIO3PBx8iTIkUA7dTXAoGAPsCT\nvj+HbtXIzZKeVI9Ea2+Uo00k9cuvh5pOUyPSrAyW1Yv6MW78AeKnFFsKwKGM104H\n1F0q4ql6mQCiiunPb+XE3gah8AifFbu/Fjb/ooACUT9AOEqo6Y1/TEIJe87OtgW8\neMmui781rfNjDoa62fUNcZC3z7J5ByfKqbY0xdcCgYBKmxFHAqODUy9VJCEqMa1D\nTw76pCCZG6D/8mfkHk2oeaSm0pqo9PJ0aYb9+AQ47cexRFcleFhSEZJj0rR5mngk\niJWb1IL/bvTmDMHpa775TPJ4TOeu08TKZ7/9Mu9YRscEXsBGdPoQcEDKA2GQU2Fz\nRJWwv7p846aeFsrPm3+Iwg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "conta-para-desenvolvimento@avaliacao-individual-345816.iam.gserviceaccount.com",
+  "client_id": "112922428649856556441",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/conta-para-desenvolvimento%40avaliacao-individual-345816.iam.gserviceaccount.com"
+}
